@@ -1,2 +1,3 @@
-This is my first README file in GitHub.
-This is my first repository and my first commit.
+#About Me 
+
+This is my about me project. It's not *everything* about me but it's a start
